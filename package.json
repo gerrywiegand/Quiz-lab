@@ -1,0 +1,27 @@
+{
+  "name": "quiz-lab",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerrywiegand/Quiz-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerrywiegand/Quiz-lab/issues"
+  },
+  "homepage": "https://github.com/gerrywiegand/Quiz-lab#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.5.1",
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0"
+  }
+}
